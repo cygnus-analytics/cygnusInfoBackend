@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_solutions_cyber_security_sections",
+  "info": {
+    "displayName": "Cyber-Security-Section"
+  },
+  "options": {},
+  "attributes": {
+    "Section": {
+      "type": "component",
+      "component": "blocks.solution-section",
+      "repeatable": false
+    }
+  },
+  "config": {}
+}

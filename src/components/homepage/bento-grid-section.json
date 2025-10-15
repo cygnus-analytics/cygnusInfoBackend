@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_homepage_bento_grid_sections",
+  "info": {
+    "displayName": "Bento-Grid-Section"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "bentoGrids": {
+      "type": "component",
+      "component": "homepage.bento-grid",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

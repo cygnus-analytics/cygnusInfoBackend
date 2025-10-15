@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_company_heads",
+  "info": {
+    "displayName": "Heads"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,39 @@
+{
+  "collectionName": "components_homepage_bento_grids",
+  "info": {
+    "displayName": "Bento-Grid-Item"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "backgroundType": {
+      "type": "enumeration",
+      "enum": [
+        "image",
+        "video",
+        "gradient",
+        "logoRipple"
+      ]
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "video": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "videos"
+      ]
+    }
+  },
+  "config": {}
+}

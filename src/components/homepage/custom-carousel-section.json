@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_homepage_custom_carousel_sections",
+  "info": {
+    "displayName": "Custom-Carousel-Section"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "carousels": {
+      "type": "component",
+      "component": "homepage.custom-carousel",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_solutions_storage_sections",
+  "info": {
+    "displayName": "Storage-Section"
+  },
+  "options": {},
+  "attributes": {
+    "Section": {
+      "type": "component",
+      "component": "blocks.solution-section",
+      "repeatable": false
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_company_careers",
+  "info": {
+    "displayName": "Career"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "Job": {
+      "type": "component",
+      "component": "company.job-card",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

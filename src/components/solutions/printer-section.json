@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_solutions_printer_sections",
+  "info": {
+    "displayName": "Printer-Section"
+  },
+  "options": {},
+  "attributes": {
+    "Section": {
+      "type": "component",
+      "component": "blocks.solution-section",
+      "repeatable": false
+    }
+  },
+  "config": {}
+}

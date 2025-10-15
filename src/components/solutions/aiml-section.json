@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_solutions_aiml_sections",
+  "info": {
+    "displayName": "AIML-Section"
+  },
+  "options": {},
+  "attributes": {
+    "Section": {
+      "type": "component",
+      "component": "blocks.solution-section",
+      "repeatable": false
+    }
+  },
+  "config": {}
+}

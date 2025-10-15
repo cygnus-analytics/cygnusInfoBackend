@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_company_location_sections",
+  "info": {
+    "displayName": "Location-Section"
+  },
+  "options": {},
+  "attributes": {
+    "Card": {
+      "type": "component",
+      "component": "elements.card",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

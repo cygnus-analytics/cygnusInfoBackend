@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_company_vision_communities",
+  "info": {
+    "displayName": "Vision Community"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "Stats": {
+      "type": "component",
+      "component": "company.stats",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_homepage_product_cards",
+  "info": {
+    "displayName": "Product-Card"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "Image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,71 @@
+{
+  "kind": "singleType",
+  "collectionName": "solutions_pages",
+  "info": {
+    "singularName": "solutions-page",
+    "pluralName": "solutions-pages",
+    "displayName": "Solutions Page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "Infrastructure": {
+      "type": "component",
+      "component": "solutions.infrastructure-section",
+      "repeatable": false
+    },
+    "CyberSecurity": {
+      "type": "component",
+      "component": "solutions.cyber-security-section",
+      "repeatable": false
+    },
+    "Storage": {
+      "type": "component",
+      "component": "solutions.storage-section",
+      "repeatable": false
+    },
+    "Network": {
+      "type": "component",
+      "component": "solutions.end-point-section",
+      "repeatable": false
+    },
+    "EndPoint": {
+      "type": "component",
+      "component": "solutions.end-point-section",
+      "repeatable": false
+    },
+    "Printer": {
+      "type": "component",
+      "component": "solutions.printer-section",
+      "repeatable": false
+    },
+    "Hpc": {
+      "type": "component",
+      "component": "solutions.hpc-section",
+      "repeatable": false
+    },
+    "Cloud": {
+      "type": "component",
+      "component": "solutions.cloud-section",
+      "repeatable": false
+    },
+    "Aiml": {
+      "type": "component",
+      "component": "solutions.aiml-section",
+      "repeatable": false
+    },
+    "Cta": {
+      "type": "component",
+      "component": "solutions.cta-section",
+      "repeatable": false
+    }
+  }
+}

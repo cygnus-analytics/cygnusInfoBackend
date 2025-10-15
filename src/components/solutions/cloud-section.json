@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_solutions_cloud_sections",
+  "info": {
+    "displayName": "Cloud-Section"
+  },
+  "options": {},
+  "attributes": {
+    "Section": {
+      "type": "component",
+      "component": "blocks.solution-section",
+      "repeatable": false
+    }
+  },
+  "config": {}
+}

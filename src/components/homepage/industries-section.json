@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_homepage_industries_sections",
+  "info": {
+    "displayName": "Industries-Section"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "Industries": {
+      "type": "component",
+      "component": "homepage.industries-slide",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_blocks_solution_sections",
+  "info": {
+    "displayName": "Solution-Section"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "Card": {
+      "type": "component",
+      "component": "elements.card",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

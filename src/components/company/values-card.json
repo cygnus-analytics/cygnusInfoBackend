@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_company_values_cards",
+  "info": {
+    "displayName": "Values Card"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

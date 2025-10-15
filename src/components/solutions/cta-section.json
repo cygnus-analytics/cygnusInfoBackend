@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_solutions_cta_sections",
+  "info": {
+    "displayName": "CtaSection"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text"
+    },
+    "ctaText": {
+      "type": "string"
+    },
+    "ctaLink": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

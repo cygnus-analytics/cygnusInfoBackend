@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_header_dropdown_items",
+  "info": {
+    "displayName": "Dropdown-item"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "href": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

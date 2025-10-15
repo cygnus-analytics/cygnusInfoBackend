@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_company_job_cards",
+  "info": {
+    "displayName": "Job Card"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "level": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

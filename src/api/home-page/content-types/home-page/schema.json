@@ -1,0 +1,56 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_pages",
+  "info": {
+    "singularName": "home-page",
+    "pluralName": "home-pages",
+    "displayName": "Home Page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "carouselSection": {
+      "type": "component",
+      "component": "homepage.custom-carousel-section",
+      "repeatable": false
+    },
+    "companiesSection": {
+      "type": "component",
+      "component": "homepage.companies",
+      "repeatable": false
+    },
+    "bentoGridSection": {
+      "type": "component",
+      "component": "homepage.bento-grid-section",
+      "repeatable": false
+    },
+    "Banner": {
+      "type": "component",
+      "component": "homepage.banner-section",
+      "repeatable": false
+    },
+    "productSection": {
+      "type": "component",
+      "component": "homepage.product-section",
+      "repeatable": false
+    },
+    "industriesSection": {
+      "type": "component",
+      "component": "homepage.industries-section",
+      "repeatable": false
+    },
+    "CtaSection": {
+      "type": "component",
+      "component": "homepage.cta-section",
+      "repeatable": false
+    }
+  }
+}

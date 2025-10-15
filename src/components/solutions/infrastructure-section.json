@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_solutions_infrastructure_sections",
+  "info": {
+    "displayName": "Infrastructure-Section"
+  },
+  "options": {},
+  "attributes": {
+    "Section": {
+      "type": "component",
+      "component": "blocks.solution-section",
+      "repeatable": false
+    }
+  },
+  "config": {}
+}

@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_footer_contact_infos",
+  "info": {
+    "displayName": "Contact-Info"
+  },
+  "options": {},
+  "attributes": {
+    "email": {
+      "type": "email",
+      "default": "sales@cygnussolutions.co.in"
+    },
+    "phone": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
