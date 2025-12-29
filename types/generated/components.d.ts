@@ -66,6 +66,7 @@ export interface CompanyHeadsSection extends Struct.ComponentSchema {
     displayName: 'Heads Section';
   };
   attributes: {
+    description: Schema.Attribute.String;
     Photos: Schema.Attribute.Component<'company.photo-card', true>;
     title: Schema.Attribute.String;
   };

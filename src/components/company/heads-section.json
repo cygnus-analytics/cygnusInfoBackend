@@ -8,6 +8,9 @@
     "title": {
       "type": "string"
     },
+    "description": {
+      "type": "string"
+    },
     "Photos": {
       "type": "component",
       "component": "company.photo-card",
